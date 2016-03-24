@@ -1,4 +1,4 @@
-# StIRLingPlatform
+# StIRLing Platform
 
 --> This repository is still under construction.  Please check back later. <--
 
